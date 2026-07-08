@@ -1,5 +1,5 @@
-import { motion } from "framer-motion";
-import { Heart, ArrowUpRight, Mail } from "lucide-react";
+//import { motion } from "framer-motion";
+import { ArrowUpRight, Mail } from "lucide-react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { socials } from "../data";
 
