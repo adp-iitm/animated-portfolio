@@ -19,7 +19,7 @@ import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
 import { CommandPalette } from "./components/CommandPalette";
 import { NotFound } from "./components/NotFound";
-import { TheHumanSide } from "./components/TheHumanSide";
+import { TheHumanSide } from "./components/Thehumanside";
 
 function App() {
   const [loading, setLoading] = useState(true);
